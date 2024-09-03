@@ -6,7 +6,7 @@ import "./style.css";
 import { scrollTo } from "../utils/index";
 import { ToastContainer, toast, cssTransition } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Head_bg from "../assests/hero5.png";
+import Head_bg from "../assests/latest.jpg";
 
 // google tag manager
 
